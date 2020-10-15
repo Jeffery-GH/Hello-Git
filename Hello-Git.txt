@@ -1,3 +1,5 @@
-Hello World£¡
+Hello WorldÂ£Â¡
 
-This is my first Git£¡
+This is my first GitÂ£Â¡
+
+JiTeng Haibo
